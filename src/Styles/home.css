@@ -1,0 +1,87 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+  
+body {
+    background-image: url('/assets/clean-beauty.png');
+    background-size: cover;      /* makes image cover entire screen */
+    background-position: center; /* center the image */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* keeps it fixed when scrolling */
+    font-family: Arial, sans-serif;
+}
+
+.home-space {
+
+}
+
+.hero-text {
+    text-align: left;
+    font-size: 46px;
+    margin-top: 2rem;
+    color: white;
+}
+
+.ingredients-input-field {
+    margin-top: 2.5rem;
+}
+
+.input-text-box {
+    width: 100%;
+    border: 15px solid rgb(245 240 240 / 90%);
+    border-radius: 30px;
+    background-color:  rgb(245 240 240 / 96%);;
+}
+
+.buttons-row {
+    margin-top: 0.5rem !important;
+}
+
+.check-ingredient-button {
+    width: 100%;
+    border: 5px solid rgb(245 240 240 / 90%);
+    border-radius: 10px;
+}
+
+.clear-button {
+    width: 100%;
+    border: 5px solid rgb(245 240 240 / 90%);
+    border-radius: 10px;
+}
+
+.safe-text-field{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    background-color: #d5f0af;
+}
+
+.warning-text-field{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    background-color: #f55656;
+    color: whitesmoke;
+}
+
+.result-ingredients {
+    font-style: italic;
+}
+
+.application-brief-text {
+    margin-top: 1rem;
+    color: whitesmoke;
+}
+
+/* @media (min-width: 1080px) {
+    .hero-text {
+      margin-top: 6rem;
+    }
+}
+
+@media (min-width: 1800px) {
+    .hero-text {
+      margin-top: 4rem;
+    }
+} */
