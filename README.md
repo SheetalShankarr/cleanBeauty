@@ -6,7 +6,7 @@ Paste a list of ingredients (separated by commas) and instantly see if any are f
 
 ---
 
-## ✨ Features--------------------------------
+## ✨ Features
 - 🧴 **Ingredient Checker** — Paste an ingredient list and quickly identify potentially harmful substances.  
 - 🧪 **Highlighting System** — Flags ingredients related to known chemical concerns such as benzene derivatives.  
 - 📱 **Responsive Design** — Works seamlessly across desktop and mobile browsers.  
@@ -15,7 +15,7 @@ Paste a list of ingredients (separated by commas) and instantly see if any are f
 
 ---
 
-## 💻 Tech Stack-------------------------------
+## 💻 Tech Stack
 - **Frontend:** React.js (Bootstrap for layout and styling)  
 - **Deployment:** Netlify  
 - **Language:** JavaScript (ES6+)  
@@ -23,11 +23,7 @@ Paste a list of ingredients (separated by commas) and instantly see if any are f
 
 ---
 
-# Getting Started with Create React App--------
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts---------------------------
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -43,7 +39,9 @@ Using npm:
 Using yarn:
 - yarn start
 
-🌐 Deployment----------------------------------
+---
+
+## 🌐 Deployment
 **This project is manually deployed on Netlify by uploading the build folder.**
 To build the app:
 npm run build
@@ -51,7 +49,7 @@ npm run build
 🔄 _Automatic Git-based deployments may be added in the future.
 Contributions and suggestions are always welcome!_
 
-🤝 Contributing----------------------------------
+## 🤝 Contributing
 Contributions are welcome and encouraged! 💚
 If you’d like to help improve CleanBeauty, please follow these steps:
 - Fork the repository
@@ -62,13 +60,17 @@ If you’d like to help improve CleanBeauty, please follow these steps:
 
 If you spot any inaccuracies or unidentified chemicals, you can also open an Issue or send me a message directly.
 
-📘 Disclaimer--------------------------------------
+---
+
+## 📘 Disclaimer
 ⚠️ This app is for informational and educational purposes only.
 It should not be considered medical or regulatory advice.
 Ingredient safety depends on concentration, formulation, and regulatory approval in each region.
 Always refer to official product documentation and safety assessments.
 
-🪄 Author-------------------------------------------
+---
+
+## 🪄 Author
 
 Developed by: Sheetal S
 Website: [https://cleanbeauty.info](https://cleanbeauty.info/)
