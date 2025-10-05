@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🌿 A simple clean beauty web app — Transparency Made Simple  
+
+Many cosmetics and skincare products are marketed as “clean,” but it’s not always clear what’s really inside. **CleanBeauty** is a simple web app designed to help users understand the ingredients in their products by identifying potentially harmful or controversial substances.  
+
+Paste a list of ingredients (separated by commas) and instantly see if any are flagged — empowering you to make more informed and confident choices.  
+
+---
+
+## ✨ Features--------------------------------
+- 🧴 **Ingredient Checker** — Paste an ingredient list and quickly identify potentially harmful substances.  
+- 🧪 **Highlighting System** — Flags ingredients related to known chemical concerns such as benzene derivatives.  
+- 📱 **Responsive Design** — Works seamlessly across desktop and mobile browsers.  
+- 🌈 **Modern UI** — Simple, clean, and elegant gradient interface.  
+- ⚠️ **Transparent Disclaimer** — Encourages awareness while respecting product regulatory standards.  
+
+---
+
+## 💻 Tech Stack-------------------------------
+- **Frontend:** React.js (Bootstrap for layout and styling)  
+- **Deployment:** Netlify  
+- **Language:** JavaScript (ES6+)  
+- **Styling:** CSS3  
+
+---
+
+# Getting Started with Create React App--------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts---------------------------
 
 In the project directory, you can run:
 
-### `npm start`
+To install dependencies:
+Using npm:
+- npm install
+Using yarn:
+- yarn install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To run the appp locally:
+Using npm:
+- npm start
+Using yarn:
+- yarn start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🌐 Deployment----------------------------------
+**This project is manually deployed on Netlify by uploading the build folder.**
+To build the app:
+npm run build
 
-### `npm test`
+🔄 _Automatic Git-based deployments may be added in the future.
+Contributions and suggestions are always welcome!_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🤝 Contributing----------------------------------
+Contributions are welcome and encouraged! 💚
+If you’d like to help improve CleanBeauty, please follow these steps:
+- Fork the repository
+- Create a new branch for your feature (git checkout -b feature-name)
+- Commit your changes (git commit -m "Added new feature")
+- Push to your branch (git push origin feature-name)
+- Open a Pull Request
 
-### `npm run build`
+If you spot any inaccuracies or unidentified chemicals, you can also open an Issue or send me a message directly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📘 Disclaimer--------------------------------------
+⚠️ This app is for informational and educational purposes only.
+It should not be considered medical or regulatory advice.
+Ingredient safety depends on concentration, formulation, and regulatory approval in each region.
+Always refer to official product documentation and safety assessments.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🪄 Author-------------------------------------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Developed by: Sheetal S
+Website: [https://cleanbeauty.info](https://cleanbeauty.info/)
+GitHub: [https://github.com/<your-username>](https://github.com/SheetalShankarr)
+LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/sheetal-shankarr)
